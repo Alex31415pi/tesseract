@@ -1,0 +1,57 @@
+body{
+  background-color:rgba(0,0,0,1);
+}
+div.relative1{
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+div.relative2{
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+div.relative3{
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+
+h2{
+  color:red;
+  border:1px 1px 1px 1px;
+  margin:1px 1px 1px 1px;
+  padding:1px 1px 1px 1px;
+  font-family:Courier New;
+  font-size: 90px;
+  
+}
+h3{
+  color:blue;
+  border:1px 1px 1px 1px;
+  margin:1px 1px 1px 1px;
+  padding:1px 1px 1px 1px;
+  font-family:Courier New;
+  font-size: 70px;
+}
+h4{
+  color:white;
+  border:1px 1px 1px 1px;
+  margin:1px 1px 1px 1px;
+  padding:1px 1px 1px 1px;
+  font-family:Arial;
+  font-size: 50px;
+}
+input{
+ width:200px;
+ height: 60;
+ font-size: 50px;
+}
+button{
+  width:200px;
+  height:70px;
+  border:1px 1px 1px 1px;
+  margin:1px 1px 1px 1px;
+  padding:1px 1px 1px 1px;
+  font-size: 50px;
+}
